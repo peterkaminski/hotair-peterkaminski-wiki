@@ -4,17 +4,17 @@
 
 This is an emergent story of four people - Franklin, Anika, Liliane, and Mateo - and the transformative power of friendship. The friends meet and have adventures in different places around the world, sharing experiences and creative endeavors, forming a deep and lasting bond.
 
-It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You can comment on pages using [Hypothesis](https://web.hypothes.is/) - click the "<" in the upper right corner.
+It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This website was built with [Massive Wiki](https://massive.wiki/) and [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder/). You can comment on pages using [Hypothesis](https://web.hypothes.is/) - click the "<" in the upper right corner.
 
-In the following, there is commentary by me (Pete), and links, which show the text of the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. (There is also a page with [[Hot Air - All Chapters|all chapters on one page]].)
+On this page, there is commentary by me (Pete), and links, which show the text of the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. (There is also a page with [[Hot Air - All Chapters|all chapters on one page]].)
 
 I wrote everything on this page (and the italicized prompts which are repeated on each chapter page), but ChatGPT wrote all the chapters.  I wrote the titles, and added the chapter/response numbers afterwards.
 
 I didn't mean for this to turn into a story, really; in my mind it was more like those old "choose your adventure" branching stories that had a choice to follow one branch or another at the end of each chapter. Except in this case, ChatGPT wrote each next chapter de novo.
 
-Considered as a story or short book, the story progresses, but it's not structured as narrative very well. That's because the story arc emerged out of simple choices and directions I took, more as part of an experiment, rather than trying to write a novel. If ChatGPT and I were to try to write a real novel, perhaps we could do a better job.
+Considered as a story or short book, while the story does progress, it's not structured or written very artfully. That's because the story arc emerged out of simple choices and directions I took, response by response, more as part of an experiment, rather than trying to write a novel. If ChatGPT and I were to try to write a real novel, perhaps we could do a better job.
 
-Overall, I find that ChatGPT doesn't write or create as well as the *best* human writers; but it's much better than bad writers, and as good as many. It's also effortlessly creative, which I always find startling.
+Overall, I find that ChatGPT doesn't write or create as well as the *best* human writers; but it's much better than bad writers, and as good as many. ChatGPT is also effortlessly creative, which I always find startling.
 
 The story begins with an open-ended prompt:
 
@@ -107,3 +107,5 @@ As an experiemnt, let's try to level up the story-telling a little:
 [[30. Art gallery - show, not tell|30. Retell the visit to the art gallery, but use dialogue and settings to "show, not tell"]]
 
 It does a decent job with some dialogue, although this doesn't seem to be a retelling of a previous chapter, but rather a new chapter.
+
+And there you have it - an experiment with AI-generated hot air.
