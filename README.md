@@ -6,9 +6,9 @@ This is an emergent story of four people - Franklin, Anika, Liliane, and Mateo -
 
 It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This website was built with [Massive Wiki](https://massive.wiki/) and [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder/). You can comment on pages using [Hypothesis](https://web.hypothes.is/) - click the "<" in the upper right corner.
 
-On this page, there is commentary by me (Pete), and links, which show the text of the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. (There is also a page with [[Hot Air - All Chapters|all chapters on one page]].)
+On this page, there is commentary by me (Pete), and links, which are the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. (Or if you like, you can view [[Hot Air - All Chapters|all chapters on one page]].)
 
-I wrote everything on this page (and the italicized prompts which are repeated on each chapter page), but ChatGPT wrote all the chapters.  I wrote the titles, and added the chapter/response numbers afterwards.
+I wrote everything on this page, and the italicized prompts which are repeated on each chapter page, but ChatGPT wrote all the chapters. Afterwards, I wrote the titles and added the chapter/response numbers, and created this website.
 
 I didn't mean for this to turn into a story, really; in my mind it was more like those old "choose your adventure" branching stories that had a choice to follow one branch or another at the end of each chapter. Except in this case, ChatGPT wrote each next chapter de novo.
 
@@ -40,11 +40,11 @@ Back to a shared adventure; this time the AI picks Kyoto:
 
 [[7. Kyoto - a journey of cultural immersion|7. Describe a trip all four friends go on together.]]
 
-We need a little conflict, I ask for an adventure. And, let's create a partner for Liliane:
+We need a little conflict, I ask for a misadventure. And, let's create a partner for Liliane:
 
 [[8. The friends get lost in Paris|8. Describe a misadventure the four get into when they meet at Liliane's home with her wife.]]
 
-Instead of adventures, how about different ways the friends might communicate?
+Instead of adventures, how about describing different ways the friends might communicate?
 
 [[9. A letter from Franklin to Mateo|9. Write a letter from Franklin to Mateo.]]
 
@@ -68,11 +68,11 @@ Since we left out Franklin, let's visit his home:
 
 [[16. Franklin's town - and personal history|16. Describe the friends trips and then their visit to Franklin's home, where learn about some of the formative experiences from Franklin's life.]]
 
-Okay, we have enough to sort of structure of a story - let's have the AI write prompts now:
+Okay, we have enough to sort of structure a story - let's have the AI take a turn at writing prompts now:
 
 [[17. Ten suggested prompts|17. Consider your previous responses as the beginning of a narrative arc. What would be some good prompts to continue the development of the narrative?]]
 
-Ask the AI to use the prompts it came up with. (titles by me)
+Go on to ask the AI to use the prompts it came up with. (titles by me)
 
 [[18. Journeys of the heart - celebrating friendship and travel|18. Continue with prompt number 1.]] (Journeys of the heart - celebrating friendship and travel)
 
@@ -100,9 +100,9 @@ Okay, let's start to wrap this up - can the AI make some titles?
 
 [[29. Create titles for each of your responses.|29. Create titles for each of your responses.]]
 
-The titles are good, but it doesn't remember all of its responses, so ultimately I write all the titles.
+The titles are good, but it doesn't remember all of its responses, so ultimately I wrote all the titles.
 
-As an experiemnt, let's try to level up the story-telling a little:
+As an experiment, let's try to level up the story-telling a little:
 
 [[30. Art gallery - show, not tell|30. Retell the visit to the art gallery, but use dialogue and settings to "show, not tell"]]
 
