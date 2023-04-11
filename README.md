@@ -1,70 +1,105 @@
-# Your Massive Wiki
+# Hot Air - an experimental story by Pete and ChatGPT
 
-Version 2023-02-09-001.
+## Minimal promptcraft, exercising some of ChatGPT's creative writing skills
 
-## What This Repo Is For
+This is an emergent story of four people - Franklin, Anika, Liliane, and Mateo - and the transformative power of friendship. The friends meet and have adventures in different places around the world, sharing experiences and creative endeavors, forming a deep and lasting bond. It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-If you're seeing this on GitHub, click "Use this template" to make your own copy of this repo. Or, you can create a fork, or just clone this repo any other way.
+In the following, there is commentary by me (Pete), and links, which show the text of the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. I wrote everything on this page (and the italicized prompts which are repeated on each chapter page), but ChatGPT wrote all the chapters.  I wrote the titles, and added the chapter/response numbers afterwards.
 
-This repo is great to start with if you'll ever want to use Massive Wiki Builder to publish your wiki to the web. If you don't need that capability, you can usually just start a Massive Wiki with an empty directory and Git and your favorite Markdown editor.
+I didn't mean for this to turn into a story, really; in my mind it was more like those old "choose your adventure" branching stories that had a choice to follow one branch or another at the end of each chapter. Except in this case, ChatGPT wrote each next chapter de novo.
 
-## For Editing Wiki Files
+Considered as a story or short book, the story progresses, but it's not structured as narrative very well. That's because the story arc emerged out of simple choices and directions I took, more as part of an experiment, rather than trying to write a novel. If ChatGPT and I were to try to write a real novel, perhaps we could do a better job.
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+Overall, I find that ChatGPT doesn't write or create as well as the *best* human writers; but it's much better than bad writers, and as good as many. It's also effortlessly creative, which I always find startling.
 
-Use Markdown, or just type text -- either way works.
+The story begins with an open-ended prompt:
 
-Use double square brackets around words to make links to other pages in this wiki.
+[[1. Franklin and Anika meet in Albuquerque|01 Choose an annual event and a location, and describe an unlikely friendship that develops between two people who meet there.]]
 
-## For Publishing Wiki To Website
+The AI created Franklin and Anika, at the International Hot Air Balloon Fiesta.  With the next prompt, I intended for the AI to describe another adventure for Franklin and Anika, but I wasn't specific enough...
 
-### Massive Wiki Builder
+[[2. Liliane and Mateo meet in Montreux|02 How about the next year at the festival in Montreux?]]
 
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
+... so the AI created Liliane and Mateo. I continue prompting for more adventures:
 
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
+[[3. Franklin and Anika meet again in Albuquerque|03 Describe Franklin and Anika's meeting a year later.]]
 
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
+[[4. The four friends meet for the first time in Melbourne|04 Choose an annual event and a location, and tell me about Franklin, Anika, Liliane, and Mateo all meeting each other and hitting it off.]]
 
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
+Maybe we should visit a couple of the friends' homes?
 
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
+[[5. The friends visit Anika's family home|05 When the four next meet, it is at Anika's parents' house. Describe what happens.]]
 
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
+[[6. The friends visit Mateo's family home|06 Describe their next meeting, at Mateo's home.]]
 
-The full command:
+Back to a shared adventure; this time the AI picks Kyoto:
 
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
+[[7. Kyoto - a journey of cultural immersion|07 Describe a trip all four friends go on together.]]
 
-Or, you can clone the submodules with these commands:
+We need a little conflict, I ask for an adventure. And, let's create a partner for Liliane:
 
-```shell
-git submodule init
-git submodule update
-```
+[[8. The friends get lost in Paris|08 Describe a misadventure the four get into when they meet at Liliane's home with her wife.]]
 
-When the upstream Massive Wiki Builder or Massive Wiki Themes repos have been updated, your submodules won't automatically update. Conceptually, they are "pinned" to the Git hash you set them up with.
+Instead of adventures, how about different ways the friends might communicate?
 
-To upgrade your submodules to the latest upstream version, you can use these commands:
+[[9. A letter from Franklin to Mateo|09 Write a letter from Franklin to Mateo.]]
 
-```shell
-cd .massivewikibuilder
-git submodule init
-git submodule update --remote --merge massivewikibuilder
-git submodule update --remote --merge massive-wiki-themes
-```
+[[10. An email from Anika to Liliane|10 Write an email from on of the friends to another.]]
 
-After that, `git status` will show that there have been changes to the submodules. Use your regular add, commit, and push process to update your repo.
+[[11. Group chat - let's go to New Zealand!|11 Now create a group message thread between all four.]]
 
+[[12. Video call - planning the New Zealand trip|12 Describe the video call.]]
 
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
+Now, follow on from the video call planning a trip. Try to shift the point of view from the friends, to other people meeting the friends.
 
-### Themes
+[[13. People we meet in New Zealand|13 Describe the New Zealand trip through the eyes of the people who the friends meet.]]
 
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
+Meta: I didn't remember whose homes we've visited and whose we haven't; turns out ChatGPT didn't really either:
 
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.
+[[14. Which friend's home have we not visited yet?|14 Which friend's home have we not visited yet?]]
 
-After you update `massive-wiki-themes`, you can compare (with `diff` or another tool) the upstream theme in `massive-wiki-themes` and your customized version of it in `this-wiki-themes`, and port over any changes you want.
+[[15. We visited Mateo's home, didn't we?|15 We visited Mateo's home, didn't we?]]
+
+Since we left out Franklin, let's visit his home:
+
+[[16. Franklin's town - and personal history|16 Describe the friends trips and then their visit to Franklin's home, where learn about some of the formative experiences from Franklin's life.]]
+
+Okay, we have enough to sort of structure of a story - let's have the AI write prompts now:
+
+[[17. Ten suggested prompts|17 Consider your previous responses as the beginning of a narrative arc. What would be some good prompts to continue the development of the narrative?]]
+
+Ask the AI to use the prompts it came up with. (titles by me)
+
+[[18. Journeys of the heart - celebrating friendship and travel|18 Continue with prompt number 1.]] (Journeys of the heart - celebrating friendship and travel)
+
+[[19. "Journeys of the Heart" was in New York City|19 Which city was the gallery in?]] ("Journeys of the Heart" was in New York City)
+
+[[20. Lost in Patagonia - a journey of challenge and friendship|20 Continue with prompt number 2.]] (Lost in Patagonia - a journey of challenge and friendship)
+
+[[21. Dream retreat in southern France|21 Continue with prompt number 3.]] (Dream retreat in southern France)
+
+[[22. Through thick and thin - the friends' unbreakable bond|22 Continue with prompt number 4.]] (Through thick and thin - the friends' unbreakable bond)
+
+[[23. Adapting to the changing landscape of our lives|23 Continue with prompt number 5.]] (Adapting to the changing landscape of our lives)
+
+[[24. The Friendship Chronicles|24 Continue with prompt number 6.]] (The Friendship Chronicles)
+
+[[25. Revisiting our journeys with children and grandchildren|25 continue with prompt 7.]] (Revisiting our journeys with children and grandchildren)
+
+[[26. A museum dedicated to the exploration of human connection, friendship, and creativity|26 continue with prompt 8.]] (A museum dedicated to the exploration of human connection, friendship, and creativity)
+
+[[27. The Infinite Bond - A Lifetime of Friendship and Adventure|27 continue with prompt 9.]] (The Infinite Bond - A Lifetime of Friendship and Adventure)
+
+[[28. The friends' love and legacy shine on|28 continue with prompt 10.]] (The friends' love and legacy shine on)
+
+Okay, let's start to wrap this up - can the AI make some titles?
+
+[[29. Create titles for each of your responses.|29 Create titles for each of your responses.]]
+
+The titles are good, but it doesn't remember all of its responses, so ultimately I write all the titles.
+
+As an experiemnt, let's try to level up the story-telling a little:
+
+[[30. Art gallery - show, not tell|30 Retell the visit to the art gallery, but use dialogue and settings to "show, not tell"]]
+
+It does a decent job with some dialogue, although this doesn't seem to be a retelling of a previous chapter, but rather a new chapter.
