@@ -12,9 +12,11 @@ I wrote everything on this page, and the italicized prompts which are repeated o
 
 I didn't mean for this to turn into a story, really; in my mind it was more like those old "choose your adventure" branching stories that had a choice to follow one branch or another at the end of each chapter. Except in this case, ChatGPT wrote each next chapter de novo.
 
-Considered as a story or short book, while the story does progress, it's not structured or written very artfully. That's because the story arc emerged out of simple choices and directions I took, response by response, more as part of an experiment, rather than trying to write a novel. If ChatGPT and I were to try to write a real novel, perhaps we could do a better job.
+Considering "Hot Air" as a story, while it does progress, it is not particularly well constructed or artfully written. That's because the story arc evolved from simple choices and paths I took, response by response. It is more of an experiment in driving ChatGPT in creative writing, rather than an attempt to write a real story. If ChatGPT and I tried to write a real story or novel, we might be able to do a better job.
 
-Overall, I find that ChatGPT doesn't write or create as well as the *best* human writers; but it's much better than bad writers, and as good as many. ChatGPT is also effortlessly creative, which I always find startling.
+I was impressed by ChatGPT's attention to detail, continuing to keep track of the people, their interests, and the events in the story.
+
+Overall, I find that ChatGPT doesn't write or create structure as well as the *best* human writers; but it's much better than bad writers, and as good as many. ChatGPT is also effortlessly creative, which I always find startling.
 
 The story begins with an open-ended prompt:
 
