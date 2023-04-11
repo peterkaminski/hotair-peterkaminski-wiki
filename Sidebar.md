@@ -43,7 +43,8 @@ Instead of bullet lists, use plain lines, with two space characters added to the
 
 ## General Navigation
 
-[[All chapters on one page]]  
+[[Hot Air - All Chapters|All chapters on one page]]  
+
 [Search](/search.html)  
 [All Pages](/all-pages.html)  
 [Recent Changes](/recent-pages.html)  
