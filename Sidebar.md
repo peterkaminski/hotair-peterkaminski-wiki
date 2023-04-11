@@ -8,7 +8,7 @@ Use `# Headers` to separate sections.
 
 Instead of bullet lists, use plain lines, with two space characters added to the end of lines. That makes a line break. (Otherwise, the lines will wrap onto one line.)
 -->
-[[README|Home]]  
+[[README|Hot Air Home Page]]  
 
 [[1. Franklin and Anika meet in Albuquerque]]  
 [[2. Liliane and Mateo meet in Montreux]]  
