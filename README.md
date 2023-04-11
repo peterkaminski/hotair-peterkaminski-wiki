@@ -2,7 +2,7 @@
 
 ## Minimal promptcraft, exercising some of ChatGPT's creative writing skills
 
-This is an emergent story of four people - Franklin, Anika, Liliane, and Mateo - and the transformative power of friendship. The friends meet and have adventures in different places around the world, sharing experiences and creative endeavors, forming a deep and lasting bond. It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+This is an emergent story of four people - Franklin, Anika, Liliane, and Mateo - and the transformative power of friendship. The friends meet and have adventures in different places around the world, sharing experiences and creative endeavors, forming a deep and lasting bond. It was written by ChatGPT (GPT-4 model, [Mar 23 Version](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)) in April 2023, with prompts by [Peter Kaminski](http://peterkaminski.wiki/). It is shared under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). You can comment on pages using [Hypothesis](https://web.hypothes.is/).
 
 In the following, there is commentary by me (Pete), and links, which show the text of the prompts I gave to ChatGPT. The links go to a page with ChatGPT's response. I wrote everything on this page (and the italicized prompts which are repeated on each chapter page), but ChatGPT wrote all the chapters.  I wrote the titles, and added the chapter/response numbers afterwards.
 
